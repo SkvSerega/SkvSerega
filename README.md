@@ -2,7 +2,6 @@ Age: 25 y.o.<br/>
 
 💞️ I like to develop useful applications for users.<br/>
 🌱 I’m currently working for a wonderful company and growing as a specialist.<br/>
-👍 Feel free to fork and contribute any repo.<br/>
 
 ---
 
